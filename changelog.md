@@ -1,3 +1,9 @@
+## 0.8.0 - May 17, 2022
+
+Bug fixes:
+
+- Fix SSL configuration being removed when we didn't have anything configured in mup.js at `sslDomains`
+
 ## 0.7.0 - October 19, 2021
 
 New features:
